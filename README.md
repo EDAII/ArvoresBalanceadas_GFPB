@@ -17,8 +17,8 @@ Os exercícios abordados são os seguintes:
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
 | 1 | []()               | Difícil     | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução]() |
 | 2  | []()               | Difícil        | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução]() |
-| 3 | []() | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução]() |
-| 4 | []() | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução]()  |
+| 352 | [Data Stream as Disjoint Intervals](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/problema352.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/problema352.py) |
+| 715 | [Range Module](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/problema715.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/problema715.py)  |
 
 ## Screenshots
 ![Problema 1]() <br>
@@ -27,14 +27,11 @@ Os exercícios abordados são os seguintes:
 ![Problema 2]() <br>
 *Problema 2 aceitação com msd* <br><br>
 
-![Problema 3]() <br>
-*Problema 3 aceitação com lsd* <br><br>
+![Problema 352](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/IMG/img352.png) <br>
+*Problema 352 aceitação com lsd* <br><br>
 
-![Problema 4]() <br>
-*Problema 4 aceitação* <br> <br>
-
-![Problema 5]() <br>
-*Problema 5 aceitação* <br> <br>
+![Problema 715](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/IMG/img715.png) <br>
+*Problema 715 aceitação* <br> <br>
 
 ## Instalação 
 **Linguagem**: Python<br>
