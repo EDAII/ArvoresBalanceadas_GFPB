@@ -15,20 +15,20 @@ Este projeto tem como objetivo aprofundar o conhecimento em sobre Arvores Binár
 Os exercícios abordados são os seguintes:
 | Código do Problema | Nome do Problema                                                                                   | Dificuldade |   Responsável | Solução
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
-| 1 | []()               | Difícil     | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução]() |
-| 2  | []()               | Difícil        | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução]() |
+| 1382 | [Balance a Binary Search Tree](/Problemas_Gabriel/problema1382.md)               | Médio     | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução](/Problemas_Gabriel/problema1382.py) |
+| 1383  | [Maximum Performance of a Team](/Problemas_Gabriel/problema1383.md)               | Difícil        | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução](/Problemas_Gabriel/problema1383.py) |
 | 352 | [Data Stream as Disjoint Intervals](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/problema352.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/problema352.py) |
 | 715 | [Range Module](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/problema715.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/problema715.py)  |
 
 ## Screenshots
-![Problema 1]() <br>
-*Problema 1 aceitação* <br> <br>
+![Problema 1382]() <br>
+*Problema 1382 aceitação* <br> <br>
 
-![Problema 2]() <br>
-*Problema 2 aceitação com msd* <br><br>
+![Problema 1383]() <br>
+*Problema 1383 aceitação* <br><br>
 
 ![Problema 352](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/IMG/img352.png) <br>
-*Problema 352 aceitação com lsd* <br><br>
+*Problema 352 aceitação* <br><br>
 
 ![Problema 715](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/IMG/img715.png) <br>
 *Problema 715 aceitação* <br> <br>
@@ -50,4 +50,5 @@ Os exercícios abordados são os seguintes:
 
 ### Link da apresentação
 [Vídeo 1](https://drive.google.com/file/d/1Yph8AmT4rFdkJeGR-3LcoXlHSB7abNZb/view?usp=sharing)
+[Vídeo 2]()
 
