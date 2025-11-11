@@ -21,10 +21,10 @@ Os exercícios abordados são os seguintes:
 | 715 | [Range Module](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/problema715.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/problema715.py)  |
 
 ## Screenshots
-![Problema 1382]() <br>
+![Problema 1382](/Problemas_Gabriel/IMG/1382.png) <br>
 *Problema 1382 aceitação* <br> <br>
 
-![Problema 1383]() <br>
+![Problema 1383](/Problemas_Gabriel/IMG/1383.png) <br>
 *Problema 1383 aceitação* <br><br>
 
 ![Problema 352](https://github.com/EDAII/ArvoresBalanceadas_GFPB/blob/452250395d0ce926525b1ab09a9055248b32e2fb/Problemas_Paulo/IMG/img352.png) <br>
@@ -50,5 +50,4 @@ Os exercícios abordados são os seguintes:
 
 ### Link da apresentação
 [Vídeo 1](https://drive.google.com/file/d/1Yph8AmT4rFdkJeGR-3LcoXlHSB7abNZb/view?usp=sharing)
-[Vídeo 2]()
-
+[Vídeo 2](https://drive.google.com/file/d/1LPDV9ivnvSgZpSRURfLISrEMzg5N9m1f/view?usp=sharing)
